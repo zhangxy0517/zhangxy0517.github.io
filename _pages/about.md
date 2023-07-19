@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently pursuing the Master's degree at the School of Computer Science, Northwestern Polytechnical University. My research interests include 3D feature matching and 3D point cloud registration.
+Hi! I'm currently pursuing the Master's degree at [the School of Computer Science](https://jsj.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My research interests include 3D feature matching and 3D point cloud registration.
 
