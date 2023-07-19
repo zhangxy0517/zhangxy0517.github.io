@@ -2,7 +2,6 @@
 title: "Mutual Voting for Ranking 3D Correspondences"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
 date: 2023-4-19
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10105460'
