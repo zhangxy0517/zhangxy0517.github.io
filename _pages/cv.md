@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Northwestern Polytechnical University, 2022
-* Ph.D.s. in Computer Science, Northwestern Polytechnical University, 2028 (expected)
+* Ph.D.s. in Computer Science, Northwestern Polytechnical University, 2027 (expected)
 
 
   
