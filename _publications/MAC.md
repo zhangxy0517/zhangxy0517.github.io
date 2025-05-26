@@ -1,7 +1,7 @@
 ---
 title: "3D Registration with Maximal Cliques"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/MAC
 excerpt: 'Best Student Paper Award of CVPR2023🏆'
 date: 2023-6-18
 venue: 'Conference on Computer Vision and Pattern Recognition'
