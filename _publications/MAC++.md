@@ -1,7 +1,7 @@
 ---
 title: "MAC++: Going Further with Maximal Cliques for 3D Registration"
 collection: publications
-permalink: /publication/MAC_PLUS_PLUS
+permalink: /publication/MAC++
 date: 2025-3-28
 venue: 'International Conference on 3D Vision'
 paperurl: 'https://openreview.net/forum?id=dOpxroaprM'
